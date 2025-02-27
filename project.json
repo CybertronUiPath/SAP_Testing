@@ -1,5 +1,5 @@
 {
-  "name": "TC_001_Validate_SAPHR_PA20_IT2005",
+  "name": "SAPHR_PA20_IT2005",
   "projectId": "84a05ab1-7b2b-4cbc-b68d-1e42d8595c8b",
   "description": "Validate SAP Personnel with Infotype 2005 after uploading the data in SAP App server",
   "main": "Main.xaml",
@@ -53,7 +53,7 @@
         "testCaseType": "TestCase",
         "executionTemplateType": "Local",
         "executionTemplateInvokeIsolated": false,
-        "fileName": "TestCase.xaml"
+        "fileName": "TC_001_Validate_SAP_PA20_IT2005.xaml"
       }
     ],
     "saveToCloud": false
